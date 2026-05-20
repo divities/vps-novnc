@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rice-fine-ages-offshore.trycloudflare.com/vnc.html
+URL       : https://resumes-dynamic-specified-nat.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-20 12:21:58
+Created   : 2026-05-20 17:55:13
 =======================================================
