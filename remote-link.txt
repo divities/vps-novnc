@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fraser-carrying-mins-restrictions.trycloudflare.com/vnc.html
+URL       : https://transcripts-cruises-outside-affects.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-30 07:40:15
+Created   : 2026-05-30 11:19:09
 =======================================================
