@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://amounts-repository-mid-edt.trycloudflare.com/vnc.html
+URL       : https://connected-martial-forecasts-sales.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-31 08:14:43
+Created   : 2026-05-31 11:42:20
 =======================================================
