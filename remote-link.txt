@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://honest-resort-spotlight-differently.trycloudflare.com/vnc.html
+URL       : https://homework-ceramic-close-discussed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-02 03:31:31
+Created   : 2026-06-02 09:06:30
 =======================================================
