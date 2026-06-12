@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://concord-graduate-comics-sporting.trycloudflare.com/vnc.html
+URL       : https://beds-nights-meal-advisor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-12 08:57:32
+Created   : 2026-06-12 12:54:01
 =======================================================
