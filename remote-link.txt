@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reflected-entities-correlation-frequencies.trycloudflare.com/vnc.html
+URL       : https://edt-suits-managed-remember.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-20 08:21:36
+Created   : 2026-06-20 11:55:46
 =======================================================
