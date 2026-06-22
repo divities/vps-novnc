@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://climate-blake-complex-masters.trycloudflare.com/vnc.html
+URL       : https://ftp-dose-lucy-velocity.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-22 18:46:08
+Created   : 2026-06-22 22:01:18
 =======================================================
