@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://random-arthritis-note-signed.trycloudflare.com/vnc.html
+URL       : https://capitol-legs-shoppers-promotional.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 02:58:22
+Created   : 2026-06-28 08:19:54
 =======================================================
