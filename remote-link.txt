@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://traveling-territories-track-purposes.trycloudflare.com/vnc.html
+URL       : https://senior-typically-cruz-whats.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-10 02:32:27
+Created   : 2026-07-10 08:19:52
 =======================================================
