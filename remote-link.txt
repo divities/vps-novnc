@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://potter-growth-management-queue.trycloudflare.com/vnc.html
+URL       : https://talks-stanford-fighters-luis.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-14 20:58:40
+Created   : 2026-07-15 01:58:25
 =======================================================
