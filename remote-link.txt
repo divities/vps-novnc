@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://crew-hwy-promise-substitute.trycloudflare.com/vnc.html
+URL       : https://simplified-reminder-defining-appraisal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-19 11:09:43
+Created   : 2026-07-19 15:55:25
 =======================================================
