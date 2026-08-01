@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sensitivity-misc-recycling-unwrap.trycloudflare.com/vnc.html
+URL       : https://vertex-angeles-boards-summary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 16:00:29
+Created   : 2026-08-01 20:46:02
 =======================================================
