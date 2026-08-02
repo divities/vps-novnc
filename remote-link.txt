@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vertex-angeles-boards-summary.trycloudflare.com/vnc.html
+URL       : https://fruits-corresponding-instant-navigate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 20:46:02
+Created   : 2026-08-02 02:14:56
 =======================================================
