@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drop-sociology-bride-confidentiality.trycloudflare.com/vnc.html
+URL       : https://vancouver-condition-universities-expense.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 02:06:17
+Created   : 2026-08-06 07:37:53
 =======================================================
