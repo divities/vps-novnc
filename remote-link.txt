@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://consistency-cottages-pastor-symbol.trycloudflare.com/vnc.html
+URL       : https://loud-pull-angels-com.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 00:53:53
+Created   : 2026-08-07 06:09:15
 =======================================================
