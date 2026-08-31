@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://profession-methodology-cotton-movement.trycloudflare.com/vnc.html
+URL       : https://constructed-racial-tradition-alfred.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-31 11:20:20
+Created   : 2026-08-31 20:37:40
 =======================================================
