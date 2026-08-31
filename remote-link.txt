@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://christ-geometry-independent-effective.trycloudflare.com/vnc.html
+URL       : https://profession-methodology-cotton-movement.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-31 03:04:57
+Created   : 2026-08-31 11:20:20
 =======================================================
