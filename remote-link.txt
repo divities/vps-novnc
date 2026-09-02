@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://builders-copying-solar-den.trycloudflare.com/vnc.html
+URL       : https://described-gourmet-journey-try.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 02:30:42
+Created   : 2026-09-02 09:17:46
 =======================================================
