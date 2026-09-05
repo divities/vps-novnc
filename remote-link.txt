@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://canberra-hour-clara-joel.trycloudflare.com/vnc.html
+URL       : https://shipped-gotta-griffin-delegation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 13:14:30
+Created   : 2026-09-05 17:06:33
 =======================================================
