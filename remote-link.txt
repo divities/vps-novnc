@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://crowd-hats-dns-judge.trycloudflare.com/vnc.html
+URL       : https://rent-minor-replica-backup.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 21:56:52
+Created   : 2026-09-07 02:29:26
 =======================================================
