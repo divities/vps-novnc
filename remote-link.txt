@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://heroes-slide-geneva-attitude.trycloudflare.com/vnc.html
+URL       : https://scientific-scales-plans-explaining.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 23:33:16
+Created   : 2026-10-03 03:27:44
 =======================================================
