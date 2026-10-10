@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://berkeley-butter-patricia-rational.trycloudflare.com/vnc.html
+URL       : https://replication-chef-pairs-exposed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 10:57:30
+Created   : 2026-10-10 19:08:05
 =======================================================
