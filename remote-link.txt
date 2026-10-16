@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://heavy-graphic-maine-beaver.trycloudflare.com/vnc.html
+URL       : https://cingular-installing-create-cons.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 14:30:25
+Created   : 2026-10-16 18:37:31
 =======================================================
