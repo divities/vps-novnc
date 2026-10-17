@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tests-consensus-downtown-inflation.trycloudflare.com/vnc.html
+URL       : https://degree-fri-server-sig.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 17:44:47
+Created   : 2026-10-17 21:58:40
 =======================================================
