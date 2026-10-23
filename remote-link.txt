@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://solaris-maternity-past-protected.trycloudflare.com/vnc.html
+URL       : https://flags-none-interface-carb.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 14:37:35
+Created   : 2026-10-23 18:53:16
 =======================================================
