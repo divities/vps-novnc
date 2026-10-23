@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://therapeutic-connector-competent-intervention.trycloudflare.com/vnc.html
+URL       : https://solaris-maternity-past-protected.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 22:57:42
+Created   : 2026-10-23 14:37:35
 =======================================================
