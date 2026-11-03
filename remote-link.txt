@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://detroit-lately-herald-handbags.trycloudflare.com/vnc.html
+URL       : https://amino-sink-registry-auto.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 05:00:57
+Created   : 2026-11-03 12:42:36
 =======================================================
