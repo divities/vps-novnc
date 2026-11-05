@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rice-relaxation-asus-commitments.trycloudflare.com/vnc.html
+URL       : https://fact-accessible-after-creativity.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 04:48:11
+Created   : 2026-11-05 12:56:25
 =======================================================
